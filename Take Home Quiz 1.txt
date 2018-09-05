@@ -1,0 +1,69 @@
+NAME: DANIYAL KHAN.
+CLASS: BSCS (6).
+ROLL NO: (14).
+
+
+1)How To Launch Swi-Prolog On Command Line?
+  swipl --help
+  swipl --version
+  swipl --arch
+  swipl --dump-runtime-variables
+  (This answer is learned and taken from {Learn prolg now}).
+
+2)WHAT IS THE EXTENSION OF A PROLOG KNOWLEDGE BASE?
+  The extension of prolog knowledge base is (.pl).
+  {This answer is taken from NOTES}.
+
+3)HOW TO LOAD A KNOWLEDGE BASE IN PROLOG?
+  After saving the knowledge base containing extension (.pl).
+  1-open prolog
+  2-in the upper toolbar click on file.
+  3-click on consult and a dialog box open
+  4- search your required file with the help of dialog box
+  5-click on required file this with load for your prolog as knowledge base.
+  {This answer is taken from youtube videos}.
+
+4)HOW TO EXIT A PROLOG SESSION?
+  Exiting command for prolog by typing (halt) and ctrl+D.
+  {this answer is taken from NOTES).
+
+5)HOW TO GET HELP ON A TOPIC FROM WITHIN PROLOG?
+  learn prolog now.
+
+6)WHAT IS AN ATOM?
+  Atom is a general name in prolog. this atom is readed by prolog in singal unit. 
+  an atom is usually a code in prolog written in no special syntax. 
+  atom can have spaces and  special character.
+  {This answer is learned and taken from( en.wikipedia.org/wiki/Prolog_syntax_and_semantics )}
+
+7)WHAT IS A TERM?
+  All prolog data structure is called terms. a term can consist on:
+  A Constant
+  A Variable
+  {This answer is learned and taken from ( http://www.dai.ed.ac.uk/groups/ssp/bookpages/quickprolog/node5.html ).
+
+8)WHAT IS FUNCTOR?
+  functor is used to refer to atom at the start of a structure. This can consist on numbers 
+  and arguments.
+  {this is taken from ( http://www.cse.unsw.edu.au/~billw/dictionaries/prolog/functor.html )
+
+9)WHAT ARE COMPLEX TERMS?
+  Complex term consist on constants, numbers, and variables. In this The arguments are 
+  put in ordinary brackets. separated by commas, and placed after the functor. in this 
+  the argument can be a term and a variables cannot used as functor.
+  {This is taken from ( http://cs.union.edu/~striegnk/learn-prolog-now/html/node12.html )}.
+
+10)WHAT IS PREDICATE?
+  A predicate is a collection of clauses and clauses may rules or fact.
+  {this is taken from ( www.metalevel.at/prolog/concepts )}.
+
+11)WHAT IS ARITY OF PREDICATE?
+   predicate consist of name Pred and N arguments. where N is the arity of predicate.
+   {This answer is learned and taken from ( www.metalevel.at/prolog/concepts )}.
+
+12)WHAT IS UNIFICATION?
+   Matching of two terms in prolog to check wether these two terms are same or not is 
+   called unification.
+   {This answer is learned and taken from( www.dai.ed.ac.uk/groups/ssp/bookpages/
+   quickprolog/node12.html )}.
+
